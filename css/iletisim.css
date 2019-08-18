@@ -1,0 +1,36 @@
+.ConnectionBody{
+	float: left;
+	width: 1250px;
+	height: 450px;
+	border-top: 1px solid #d5d5d5;
+	border-top-left-radius: 20px; 
+}
+.hdr_lbl{
+	float: left;
+	width: 1230px;
+	height: 20px;
+	margin-left: 20px;
+	color: #2f3542;
+}
+.lbl{
+float: left;
+float: left;
+width: 248px;
+height: 68px;
+margin-top: 10px;
+margin-left: 70px;
+color: #2f3542;
+border-bottom: 1px solid #d5d5d5;
+border-bottom-right-radius: 20px;
+}
+.lbl:hover{
+	background-color: #d5d5d5;
+}
+.datalbl{
+float: left;
+width: 900px;
+height: 70px;
+margin-top: 10px;
+margin-left: 10px;
+color: #990000;
+}

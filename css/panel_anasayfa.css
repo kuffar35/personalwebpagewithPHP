@@ -1,0 +1,102 @@
+.panel_anasayfabody{
+	float: left;
+	width: 1100px;
+	height: 650px;
+	margin-bottom: 10px;
+	background-color: #555;
+
+}
+.panel_anasayfabody .left{
+	float: left;
+	width: 510px;
+	height: 650px;
+	margin-left: 35px;
+	border-right: 1px solid #fff;
+}
+.panel_anasayfabody .right{
+	float: left;
+	width: 510px;
+	height: 500px;
+	margin-left: 30px;
+	border-bottom: 1px solid #fff;
+}
+.lbl{
+	float: left;
+	width: 150px;
+	height: 30px;
+	margin-top: 10px;
+	margin-left: 10px;
+	border-bottom: 1px solid #d5d5d5;
+	line-height: 30px;
+	color:#fff;
+    text-align: center;
+}
+.txt{
+	float: left;
+	width: 325px;
+	height: 30px;
+	margin-left: 10px;
+	margin-top: 10px;
+	background-color: #fff;
+	border-top: 1px solid #fff;
+	border-left:  1px solid #fff;
+	border-right: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+.slct{
+	float: left;
+	width: 325px;
+	height: 30px;
+	margin-left: 10px;
+	margin-top: 10px;
+	background-color: #fff;
+	border-top: 1px solid #fff;
+	border-left:  1px solid #fff;
+	border-right: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+.kisiselheader_lbl{
+    float: left;
+    width: 500px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
+.textarea{
+	float: left;
+	width: 325px;
+	height: 100px;
+	margin-left: 10px;
+	margin-top: 10px;
+	color: #990000;
+    font-family:"Times New Roman";
+    font-size: 12px;
+}
+.button{
+	float: left;
+	width: 120px;
+	height: 30px;
+	margin-left: 220px;
+	margin-top: 10px;
+	background-color: #fff;
+	border-top: 1px solid #fff;
+	border-left:  1px solid #fff;
+	border-right: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+    color: #990000;
+}
+.button:hover{
+	background-color: #999;
+	color: #fff;
+}
+.file_css{
+	float: left;
+	width: 250px;
+	height: 30px;
+	margin-left: 10px;
+	margin-top: 20px;
+	border-bottom: 1px solid #fff;
+	border-top: 1px solid #fff;
+}

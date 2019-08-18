@@ -1,0 +1,115 @@
+.projectBody{
+	float: left;
+	width: 1250px;
+	height: 550px;
+}
+.projectBody .project{
+	float: left;
+	width: 175px;
+	height: 150px;
+	margin-left: 10px;
+	margin-top: 10px;
+	background-color: #fff;
+	border:1px solid #d5d5d5;
+	color: #990000;
+		border-radius: 20px;
+}
+
+.projectName_lbl{
+	float: left;
+	width: 175px;
+	height: 30px;
+	margin-top: 50px;
+	text-align: center;
+	font-size: 24px;
+}
+.project_btn{
+	float: left;
+	width: 75px;
+	height: 30px;
+	margin-left: 50px;
+	background-color: #fff;
+	border-bottom:2px solid #d5d5d5;
+	color: #990000;
+	border-bottom-right-radius: 20px;
+	margin-left: 
+}
+.project_btn:hover{
+		border-bottom-right-radius: 0px;
+}
+a{
+	color: #990000;
+}
+.popup{
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	background: rgba(0,0,0,0.6);
+	display: none;
+}
+#xmas-popup .popup-content{
+	width: 800px;
+	height: 550px;
+	margin: 25px auto;
+	position: relative;
+	border:1px solid #000;
+	background-color: #fff;
+
+}
+
+#xmas-popup .popup-content .space{
+	float: left;
+	width: 800px;
+	height: 75px;
+}
+
+.close{
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	background-color: #222;
+	border-radius: 50%;
+	border: 3px solid #fff;
+    color: #fff;
+    text-decoration: none;
+    line-height: 0;
+    padding: 9px 0 11px;
+    width: 20px;
+    text-align: center;
+}.popup:target{
+	display: block;
+}
+.txtReadony{
+	float: left;
+	width: 30px;
+	height: 30px;
+	margin-left: 80px;
+}
+.popub_lbl{
+float: left;
+width: 150px;
+height: 30px;
+margin-left: 25px;
+margin-top: 20px;
+border-bottom: 1px solid #d5d5d5;
+}
+.popubdata_lbl{
+float: left;
+width: 600px;
+height: 30px;
+margin-left: 25px;
+margin-top: 20px;
+border-bottom: 1px solid #d5d5d5;
+color: #990000;
+}
+.prctdefdata_lbl{
+	float: left;
+width: 600px;
+height: 150px;
+margin-left: 25px;
+margin-top: 20px;
+border-bottom: 1px solid #d5d5d5;
+color: #990000;
+}

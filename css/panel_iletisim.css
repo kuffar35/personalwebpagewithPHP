@@ -1,0 +1,52 @@
+.contactmBody{
+	float: left;
+	width: 500px;
+	height: 570px;
+	margin-left:300px;
+}
+.lbl{
+	float: left;
+	width: 150px;
+	height: 30px;
+	border-bottom: 1px solid #d5d5d5;
+	color: #990000;
+	margin-top: 20px;
+}
+.txt{
+	float: left;
+	width: 315px;
+	height: 30px;
+	border-bottom: 1px solid #d5d5d5;
+	border-top: 1px solid #d5d5d5;
+	border-left: 1px solid #fff;
+	border-right: 1px solid #fff;
+	margin-top: 18px;
+	margin-left: 25px;
+
+}
+.txtarea{
+	float: left;
+	width: 315px;
+	height: 150px;
+	border-bottom: 1px solid #d5d5d5;
+	border-top: 1px solid #d5d5d5;
+	border-left: 1px solid #fff;
+	border-right: 1px solid #fff;
+	margin-top: 18px;
+	margin-left: 25px;
+}
+.btn{
+	float: left;
+	width: 150px;
+	height: 30px;
+	margin-left: 175px;
+	margin-top: 20px;
+	border-bottom: 1px solid #d5d5d5;
+	border-top: 1px solid #d5d5d5;
+	border-left: 1px solid #fff;
+	border-right: 1px solid #fff;
+	background-color: #fff;
+}
+.btn:hover{
+	border-radius: 20px;
+}

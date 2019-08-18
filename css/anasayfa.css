@@ -1,0 +1,116 @@
+.cvBody{
+	float: left;
+	width: 1250px;
+	height: 550px;
+}
+.cvBody .personalInformation{
+	float: left;
+	width: 1250px;
+	height: 110px;
+	border-top: 1px solid #d5d5d5;
+	border-top-left-radius: 20px; 
+
+}
+.cvBody .personalInformation .picture{
+	float: left;
+	width: 125px;
+	height: 100px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border-radius: 10px;
+
+}
+
+.cvBody .personalInformation .Information{
+	float: left;
+	width: 1000px;
+	height: 100px;
+	margin-left: 10px;
+	margin-top: 10px;
+
+}
+.cvBody .personalEducation{
+	float: left;
+	width: 1250px;
+	height: 210px;
+	border-top: 1px solid #d5d5d5;
+	margin-top: 20PX;
+	border-top-left-radius: 20px; 
+}
+.cvBody .personalGeneralInformation{
+	float: left;
+	width: 1250px;
+	height: 220px;
+	border-top: 1px solid #d5d5d5;
+	margin-top: 20PX;
+	border-top-left-radius: 20px; 
+}
+.lbl{
+	float: left;
+	width: 100px;
+	height: 30px;
+	margin-top: 10px;
+	margin-left: 40px;
+	margin-right: 40px;
+	color: #2f3542;
+	line-height: 30px;
+	text-align: center;
+}
+.datalbl{
+		float: left;
+	width: 300px;
+	height: 30px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: #990000;
+	line-height: 30px;
+	text-align: left;
+}
+.img{
+		float: left;
+	width: 123px;
+	height: 98px;
+	border:1px solid #2f3542;
+	border-radius: 10px;
+}
+.hdr_lbl{
+	float: left;
+	width: 1230px;
+	height: 20px;
+	margin-left: 20px;
+	color: #2f3542;
+}
+.E_lbl{
+float: left;
+width: 250px;
+height: 30px;
+margin-top: 5px;
+margin-left: 10px;
+color: #2f3542;
+}
+.E_datalbl{
+float: left;
+width: 970px;
+height: 30px;
+margin-top: 5px;
+margin-left: 10px;
+color: #990000;
+}
+.GI_lbl{
+float: left;
+float: left;
+width: 250px;
+height: 50px;
+margin-top: 5px;
+margin-left: 10px;
+color: #2f3542;
+}
+.GI_datalbl{
+float: left;
+width: 970px;
+height: 50px;
+margin-top: 5px;
+margin-left: 10px;
+color: #990000;
+}
